@@ -1,0 +1,21 @@
+P1746258129,Vitamin C Serum,Garnier,20,1000.0,France
+P1746258129,Skin Cleanser,Cetaphil,64,280.0,Switzerland
+P1746258129,Sunscreen,Aqualogica,80,700.0,India
+P1746271257,adasda,dsfsf,33,232.0,Nepal
+P1746271451,adasda,sfasf,3,33.0,Nepal
+P1746271485,saddaad,asad,33,223.0,Nepal
+P1746271586,sdfsf,safasda,32,3.0,Nepal
+1747066559,asdsa,asd,12,23.0,Nepal
+1747157809,asdads,asd,221,21.0,Nepal
+1747157888,Skin Cleanser,Aqua,3,300.0,Nepal
+1747163058,Lotion,vaseline,3,100.0,Nepal
+1747163085,facewash,jelly,10,10000.0,Nepal
+1747163605,lotion,vaseline,33,30000.0,Nepal
+1747163620,facewash,jelly,100,10000.0,Nepal
+1747165193,sad,sa,23,32.0,Nepal
+1747165199,sdsad,ds,23,23.0,Nepal
+1747165947,Sunscreen,Aqualogica,100,10000.0,Nepal
+
+
+
+
