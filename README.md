@@ -29,4 +29,8 @@ Input number 4. Exit the program.
 <img width="1918" height="362" alt="image" src="https://github.com/user-attachments/assets/29f1261a-d19a-4fee-9629-fedcc66ab2da" />
 
 
+
+
+
+
 **P.S.** Expanding the horizons using database instead of plain .txt file. 
