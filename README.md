@@ -32,5 +32,3 @@ Input number 4. Exit the program.
 
 
 
-
-**P.S.** Expanding the horizons using database instead of plain .txt file. 
